@@ -299,7 +299,7 @@ $settings['install_profile'] = 'standard';
  *   $settings['hash_salt'] = file_get_contents('/home/example/salt.txt');
  * @endcode
  */
-$settings['hash_salt'] = 'ts3MpgAEZcYSm0_tCkJgrYiEMg1rRSHPzyrXRHLGTg7uBOHXRojaOnIfu1sQJO4hWxZVGJSqTA';
+$settings['hash_salt'] = 'yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE';
 
 /**
  * Deployment identifier.
